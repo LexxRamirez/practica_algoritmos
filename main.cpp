@@ -1,6 +1,7 @@
 #include <GL/gl.h>
 #include <GL/glut.h>
 #include <stdlib.h>
+//Mi primer archivo subido
 void init(void)
 {
 GLfloat punto_luz[]={0.0,200.0,200.0,0.0};
