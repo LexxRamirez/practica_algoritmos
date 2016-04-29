@@ -1,2 +1,3 @@
 # practica_algoritmos
-Algoritmos Graficos gg
+Algoritmos Graficos
+Actualizacion de prueba
